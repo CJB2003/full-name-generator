@@ -18,7 +18,7 @@ public class FullNameApplication {
         System.out.print("Suffix: \n");
         String suffix = myScanner.nextLine().trim();
 
-        //create variable for full name so I can concate them later
+        //create variable for full name so I can concat them later
         String fullName = firstName;
 
         //checks if middle name is not empty
